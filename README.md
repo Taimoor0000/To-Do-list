@@ -72,7 +72,6 @@ If you clear browser data/local storage, tasks will be removed.
 ---
 
 ## 👨‍💻 Author
-TAIMOOR ATIF
 
 **Taimoor Atif**
 
